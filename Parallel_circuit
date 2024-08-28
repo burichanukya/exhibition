@@ -1,4 +1,4 @@
-Introduction: Good morning/ Good afternoon , our aim of project is to demonstrate parallel  circuit.
+Introduction: Good morning/ Good afternoon , our aim of project is to demonstrate parallel circuit.
 
 components requried :
 
@@ -13,4 +13,7 @@ components requried :
 
 building:
 
-take the component holder and place it on the a flat base , now take the battery holder and pressed it on the component holder such it holds and now places the batteries into the battery holder . Take the wires , place the connection poles on either side of the battery holder at a distance .Connect the battery holder terminals to the connection poles from either side ,now place the LED at a distance on the component holder and connect it to one of the connection poles of the battery.Place another connection pole at distance as requried connect it with wires now to the same pole connect the open end of the wired clamp,connect another open end of wired clamps to the connection pole which is connected to the battery on negative terminal and make the clamps to hold the one of the connection pole this closes the circuit and power flows .
+Take the component holder and place it on the a flat base , now take the battery holder and pressed it on the component holder such it holds and now places the batteries into the battery holder . Take the wires , place the connection poles on either side of the battery holder at a distance .Connect the battery holder terminals to the connection poles from either side using wires ,now place the LED , Buzzer at a distance on the component holder ,connect the positive terminal of the battery holder to the positve terminal of the both devies from the connecting pole and also connect the negative terminals of the buzzer and led to one of the connection pole ,connect that connection pole the one end of the push button and other end of the push button to the battery negative terminal.
+
+working:
+when we push the push button the circuit closes and power flows activating the LED and Buzzer.
