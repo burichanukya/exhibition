@@ -1,5 +1,7 @@
 Introduction: Good morning/ Good afternoon. My name is (Student’s name) and I am studying in grade (Student’s grade).
 Our aim of project is to demonstrate parallel circuit.
+
+
 Components required:
 1. Component holder
 2. Battery holder
@@ -9,11 +11,15 @@ Components required:
 6. Switch
 7. LED
 8. Buzzer
+
+
 Building:
 •	Take the component holder and place the battery holder and pressed on it and now places the batteries into the battery holder. 
 •	Place the connection poles on either side of the battery holder at a distance.
 •	Connect the battery holder terminals to the connection poles from either side using wires.
 •	Now place the LED and Buzzer at a distance on the component holder, connect the positive terminal of the battery holder to the positive terminal of the both LED and buzzer from the connecting pole and also similarly connect the negative terminals of the buzzer and led to other side of the connection pole.
 •	Connect that push button to the connection poles.
+
+
 Working/Demonstration:
 When we push the push button the circuit closes and power flows activating the LED and Buzzer. Thank you.
