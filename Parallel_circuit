@@ -1,19 +1,35 @@
 Introduction: Good morning/ Good afternoon , our aim of project is to demonstrate parallel circuit.
 
-components requried :
 
-1.Battery holder
-2.Batteries
-3.connection pole
-4.wires(as required)
-5.wired clamps
-6.LED
-7.Buzzer
-8.component holder
 
-building:
+components requried for tihs project are
+1.component holder
 
-Take the component holder and place it on the a flat base , now take the battery holder and pressed it on the component holder such it holds and now places the batteries into the battery holder . Take the wires , place the connection poles on either side of the battery holder at a distance .Connect the battery holder terminals to the connection poles from either side using wires ,now place the LED , Buzzer at a distance on the component holder ,connect the positive terminal of the battery holder to the positve terminal of the both devies from the connecting pole and also connect the negative terminals of the buzzer and led to one of the connection pole ,connect that connection pole the one end of the push button and other end of the push button to the battery negative terminal.
 
-working:
+2.Battery holder
+
+3.Batteries
+
+4.connection pole
+
+5.wires(as required)
+
+6.Switch
+7.LED
+
+8.Buzzer
+
+
+Building:
+
+
+Take the component holder and place the battery holder and pressed on it and now places the batteries into the battery holder. 
+Place the connection poles on either side of the battery holder at a distance.
+Connect the battery holder terminals to the connection poles from either side using wires.
+Now place the LED and Buzzer at a distance on the component holder,
+connect the positive terminal of the battery holder to the positve terminal of the both devices from the connecting pole and also connect the negative terminals of the buzzer and led to other side of the connection pole.
+connect that connection pole the one end of the push button and other end of the push button to the battery negative terminal.
+
+Working:
+
 when we push the push button the circuit closes and power flows activating the LED and Buzzer.
