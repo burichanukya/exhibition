@@ -1,26 +1,8 @@
 To create a Tic-Tac-Toe game in MIT App Inventor, follow these steps:
 
-1. **Set Up the UI**:  
-   - Open MIT App Inventor and start a new project.
-   - Design the layout by adding a 3x3 grid of buttons for the Tic-Tac-Toe board.
-   - Add labels to display the status (e.g., whose turn it is) and a reset button to start a new game.
+**Flappy Bird Game using Scratch**
 
-2. **Initialize Variables**:  
-   - Create variables to store the current player (X or O), the board’s state, and the game status (e.g., whether there’s a winner or if it’s a draw).
-
-3. **Program Button Clicks**:  
-   - Use the "Button.Click" event to detect when a player clicks a grid button.
-   - Update the button text to X or O based on the current player.
-   - Check for a winning combination or a draw after each move.
-
-4. **Winning Logic**:  
-   - Create a procedure to check if there are three identical symbols in a row, column, or diagonal.
-   - Display a winning message and disable further moves if there’s a winner.
-
-5. **Reset Functionality**:  
-   - Program the reset button to clear the board and reset all variables for a new game.
-
-6. **Test the App**:  
-   - Test the game on an emulator or connected device to ensure it works as expected.
-
-This step-by-step process will guide you in creating a functional Tic-Tac-Toe game in MIT App Inventor.
+In this project, we will create a simple Flappy Bird game where the player controls a bird by pressing the space bar to make it "flap" and avoid obstacles. 
+The game will include gravity mechanics, where the bird falls automatically, and the player must keep it flying by timing their spacebar presses.
+We will use Scratch sprites and coding blocks to control the bird's movement, generate obstacles that scroll across the screen, and detect collisions. 
+Players will score points based on how far they can go without crashing into the obstacles.
