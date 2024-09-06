@@ -1,5 +1,10 @@
-In the GOBO memory game, developed using Scratch, the player needs to remember the sequence in which the sprites appear. 
+
+Introduction: Good morning/ Good afternoon. My name is (Student’s name) and I am studying in grade (Student’s grade).
+
+My project is GOBO memory game, developed using Scratch, the player needs to remember the sequence in which the sprites appear. 
 With each new level, an additional sprite is introduced, making the sequence more complex. 
-The challenge is to recall the exact order, starting from the first sprite up to the last. 
+The challenge is to recall the exact order, starting from the first sprite up to the last (10 sprites). 
 The game increases in difficulty as the number of sprites grows, testing memory and focus. 
 Scratch’s visual interface allows for easy sprite manipulation, with scripts controlling the random order, appearance, and sequencing of sprites to enhance gameplay.
+
+Thank you.
