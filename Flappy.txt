@@ -1,0 +1,6 @@
+**Flappy Bird Game using Scratch**
+
+In this project, we will create a simple Flappy Bird game where the player controls a bird by pressing the space bar to make it "flap" and avoid obstacles. 
+The game will include gravity mechanics, where the bird falls automatically, and the player must keep it flying by timing their spacebar presses. 
+We will use Scratch sprites and coding blocks to control the bird's movement, generate obstacles that scroll across the screen, and detect collisions. 
+Players will score points based on how far they can go without crashing into the obstacles.
