@@ -1,4 +1,4 @@
-
+Gobo game
 Introduction: Good morning/ Good afternoon. My name is (Student’s name) and I am studying in grade (Student’s grade).
 
 My project is GOBO memory game, developed using Scratch, the player needs to remember the sequence in which the sprites appear. 

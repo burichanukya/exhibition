@@ -1,6 +1,9 @@
 Tic-Tac-Toe game
 
+
 Introduction: Good morning/ Good afternoon. My name is (Student’s name) and I am studying in grade (Student’s grade).
 Tic-tac-toe is a game for two players that's played on a 3x3 grid. Players take turns marking the squares with X or O, and the first player to get three of their marks in a row wins.
 A row can be horizontal, vertical, or diagonal. If all nine squares are filled and no player has three in a row, the game ends in a tie.
+
+
 Thank you.
