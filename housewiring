@@ -1,0 +1,50 @@
+good morning/good afternoon to Parents and Teachers.
+
+Aim:
+To understand and demonstrate parallel house wiring connections using basic components such as LEDs, switches, buzzers, fans (DC motor), and batteries.
+
+Materials Required:
+
+1. Component Holder: Holds the different components like LEDs, buzzer, and fan (DC motor) in place.
+2. Battery Holder: Holds the batteries and supplies power to the circuit.
+3. Batteries: Source of electricity to power the circuit.
+4. Connection Pole: Acts as a central point for connecting different wires.
+5. Wires (as required): Used to connect the components together.
+6. Switch: Controls the flow of electricity.
+7. LED: A small light that turns on when electricity flows through it.
+8. Buzzer: Produces sound when electricity flows through it.
+9. Fan (DC Motor): Spins when powered, simulating the fan in a house.
+
+What is Parallel Wiring?
+
+Parallel wiring is when electrical components are connected in such a way that each component has its own independent path to the power source. This means that if one component stops working, the others will still function.
+
+Steps to Create the Parallel Wiring
+
+1. Step 1: Set up the Battery Holder
+
+   - Place the batteries in the battery holder. The batteries will provide the power needed to run the circuit.
+
+2. Step 2: Connect the Battery Holder to the Connection Pole
+
+   - Use the wires to connect the positive and negative ends of the battery holder to the connection pole. This will allow power to flow through the circuit.
+
+3. Step 3: Attach the Switch
+
+   - Connect a switch to one of the wires leading from the connection pole. The switch will control whether electricity flows through the circuit.
+
+4. Step 4: Connect the LED, Buzzer, and Fan in Parallel
+
+   - Using wires, connect each component (LED, buzzer, and fan) separately to the connection pole.
+   - Ensure each component is connected in parallel, meaning each one has its own path to the battery holder.
+   - Example: The LED should have two wires—one going to the positive pole and the other to the negative pole. Repeat this for the buzzer and the fan.
+
+5. Step 5: Test the Circuit
+   - Once everything is connected, flip the switch to turn on the power.
+   - The LED should light up, the buzzer should make a sound, and the fan should spin. If one component is disconnected or removed, the others will still work because they are connected in parallel.
+
+---
+
+Conclusion
+
+Through this activity, students will learn how parallel wiring works and understand how electricity can power multiple devices independently. This basic concept is used in household wiring, ensuring that lights, fans, and other devices continue to work even if one fails.
